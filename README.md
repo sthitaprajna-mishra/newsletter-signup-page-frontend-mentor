@@ -42,8 +42,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub URL](https://github.com/sthitaprajna-mishra/newsletter-signup-page-frontend-mentor)
+- Live Site URL: [Netlify URL](https://newsletter-signup-fe-mentor.netlify.app/)
 
 ## My process
 
