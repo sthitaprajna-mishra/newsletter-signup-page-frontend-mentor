@@ -42,7 +42,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub URL](https://github.com/sthitaprajna-mishra/newsletter-signup-page-frontend-mentor)
+- Solution URL: [FrontendMentor URL](https://www.frontendmentor.io/solutions/newsletter-signup-form-with-success-message-P9F2tPNxl_)
 - Live Site URL: [Netlify URL](https://newsletter-signup-fe-mentor.netlify.app/)
 
 ## My process
